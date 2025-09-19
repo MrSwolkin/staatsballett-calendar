@@ -1,0 +1,869 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID://StaatsBallett Performances 2025-2026//
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20250919T193000
+DTEND;TZID=Europe/Berlin:20250919T223000
+UID:20250919T193000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicxulub oder Der Floh des Teufels PREMIERE
+SUMMARY:Chicxulub oder Der Floh des Teufels PREMIERE
+DTSTART;TZID=Europe/Berlin:20250920T160000
+DTEND;TZID=Europe/Berlin:20250920T190000
+UID:20250920T160000-chicxulub-oder-der-floh-des-teufels-premiere@meucalend
+ ario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20250921T150000
+DTEND;TZID=Europe/Berlin:20250921T180000
+UID:20250921T150000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20250921T190000
+DTEND;TZID=Europe/Berlin:20250921T220000
+UID:20250921T190000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicxulub oder Der Floh des Teufels
+SUMMARY:Chicxulub oder Der Floh des Teufels
+DTSTART;TZID=Europe/Berlin:20250923T110000
+DTEND;TZID=Europe/Berlin:20250923T140000
+UID:20250923T110000-chicxulub-oder-der-floh-des-teufels@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20250924T193000
+DTEND;TZID=Europe/Berlin:20250924T223000
+UID:20250924T193000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicxulub oder Der Floh des Teufels
+SUMMARY:Chicxulub oder Der Floh des Teufels
+DTSTART;TZID=Europe/Berlin:20250925T110000
+DTEND;TZID=Europe/Berlin:20250925T140000
+UID:20250925T110000-chicxulub-oder-der-floh-des-teufels@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20250926T193000
+DTEND;TZID=Europe/Berlin:20250926T223000
+UID:20250926T193000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicxulub oder Der Floh des Teufels
+SUMMARY:Chicxulub oder Der Floh des Teufels
+DTSTART;TZID=Europe/Berlin:20250929T110000
+DTEND;TZID=Europe/Berlin:20250929T140000
+UID:20250929T110000-chicxulub-oder-der-floh-des-teufels@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20250930T193000
+DTEND;TZID=Europe/Berlin:20250930T223000
+UID:20250930T193000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16 Wiederaufnahme
+SUMMARY:Minus 16 Wiederaufnahme
+DTSTART;TZID=Europe/Berlin:20251002T193000
+DTEND;TZID=Europe/Berlin:20251002T223000
+UID:20251002T193000-minus-16-wiederaufnahme@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16 
+SUMMARY:Minus 16 
+DTSTART;TZID=Europe/Berlin:20251003T193000
+DTEND;TZID=Europe/Berlin:20251003T223000
+UID:20251003T193000-minus-16-@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251006T193000
+DTEND;TZID=Europe/Berlin:20251006T223000
+UID:20251006T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20251009T193000
+DTEND;TZID=Europe/Berlin:20251009T223000
+UID:20251009T193000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicxulub oder Der Floh des Teufels
+SUMMARY:Chicxulub oder Der Floh des Teufels
+DTSTART;TZID=Europe/Berlin:20251011T110000
+DTEND;TZID=Europe/Berlin:20251011T140000
+UID:20251011T110000-chicxulub-oder-der-floh-des-teufels@meucalendario
+COLOR:blue
+LOCATION:Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicxulub oder Der Floh des Teufels
+SUMMARY:Chicxulub oder Der Floh des Teufels
+DTSTART;TZID=Europe/Berlin:20251011T150000
+DTEND;TZID=Europe/Berlin:20251011T180000
+UID:20251011T150000-chicxulub-oder-der-floh-des-teufels@meucalendario
+COLOR:blue
+LOCATION:Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251012T150000
+DTEND;TZID=Europe/Berlin:20251012T180000
+UID:20251012T150000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251012T190000
+DTEND;TZID=Europe/Berlin:20251012T220000
+UID:20251012T190000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicxulub oder Der Floh des Teufels
+SUMMARY:Chicxulub oder Der Floh des Teufels
+DTSTART;TZID=Europe/Berlin:20251014T110000
+DTEND;TZID=Europe/Berlin:20251014T140000
+UID:20251014T110000-chicxulub-oder-der-floh-des-teufels@meucalendario
+COLOR:blue
+LOCATION:Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20251015T193000
+DTEND;TZID=Europe/Berlin:20251015T223000
+UID:20251015T193000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251018T193000
+DTEND;TZID=Europe/Berlin:20251018T223000
+UID:20251018T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer PREMIERE
+SUMMARY:Wunderkammer PREMIERE
+DTSTART;TZID=Europe/Berlin:20251031T193000
+DTEND;TZID=Europe/Berlin:20251031T223000
+UID:20251031T193000-wunderkammer-premiere@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @ Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20251107T193000
+DTEND;TZID=Europe/Berlin:20251107T223000
+UID:20251107T193000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @ Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20251109T180000
+DTEND;TZID=Europe/Berlin:20251109T210000
+UID:20251109T180000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @ Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20251114T193000
+DTEND;TZID=Europe/Berlin:20251114T223000
+UID:20251114T193000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @ Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20251116T180000
+DTEND;TZID=Europe/Berlin:20251116T210000
+UID:20251116T180000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @ Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251121T193000
+DTEND;TZID=Europe/Berlin:20251121T223000
+UID:20251121T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251122T193000
+DTEND;TZID=Europe/Berlin:20251122T223000
+UID:20251122T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251128T193000
+DTEND;TZID=Europe/Berlin:20251128T223000
+UID:20251128T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20251130T150000
+DTEND;TZID=Europe/Berlin:20251130T180000
+UID:20251130T150000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin@Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20251130T190000
+DTEND;TZID=Europe/Berlin:20251130T220000
+UID:20251130T190000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin@Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee Wiederaufnahme
+SUMMARY:Schwanensee Wiederaufnahme
+DTSTART;TZID=Europe/Berlin:20251205T193000
+DTEND;TZID=Europe/Berlin:20251205T223000
+UID:20251205T193000-schwanensee-wiederaufnahme@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20251209T193000
+DTEND;TZID=Europe/Berlin:20251209T223000
+UID:20251209T193000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20251212T193000
+DTEND;TZID=Europe/Berlin:20251212T223000
+UID:20251212T193000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251216T193000
+DTEND;TZID=Europe/Berlin:20251216T223000
+UID:20251216T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20251219T193000
+DTEND;TZID=Europe/Berlin:20251219T223000
+UID:20251219T193000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20251223T193000
+DTEND;TZID=Europe/Berlin:20251223T223000
+UID:20251223T193000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20251225T160000
+DTEND;TZID=Europe/Berlin:20251225T190000
+UID:20251225T160000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20251226T180000
+DTEND;TZID=Europe/Berlin:20251226T210000
+UID:20251226T180000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20251228T180000
+DTEND;TZID=Europe/Berlin:20251228T210000
+UID:20251228T180000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20260113T193000
+DTEND;TZID=Europe/Berlin:20260113T223000
+UID:20260113T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20260116T193000
+DTEND;TZID=Europe/Berlin:20260116T223000
+UID:20260116T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterreise Wiederaufnahme
+SUMMARY:Winterreise Wiederaufnahme
+DTSTART;TZID=Europe/Berlin:20260122T193000
+DTEND;TZID=Europe/Berlin:20260122T223000
+UID:20260122T193000-winterreise-wiederaufnahme@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20260124T193000
+DTEND;TZID=Europe/Berlin:20260124T223000
+UID:20260124T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20260126T193000
+DTEND;TZID=Europe/Berlin:20260126T223000
+UID:20260126T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterreise
+SUMMARY:Winterreise
+DTSTART;TZID=Europe/Berlin:20260129T193000
+DTEND;TZID=Europe/Berlin:20260129T223000
+UID:20260129T193000-winterreise@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterreise
+SUMMARY:Winterreise
+DTSTART;TZID=Europe/Berlin:20260131T193000
+DTEND;TZID=Europe/Berlin:20260131T223000
+UID:20260131T193000-winterreise@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20260202T193000
+DTEND;TZID=Europe/Berlin:20260202T223000
+UID:20260202T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minus 16
+SUMMARY:Minus 16
+DTSTART;TZID=Europe/Berlin:20260203T193000
+DTEND;TZID=Europe/Berlin:20260203T223000
+UID:20260203T193000-minus-16@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20260205T193000
+DTEND;TZID=Europe/Berlin:20260205T223000
+UID:20260205T193000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20260212T193000
+DTEND;TZID=Europe/Berlin:20260212T223000
+UID:20260212T193000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20260215T193000
+DTEND;TZID=Europe/Berlin:20260215T223000
+UID:20260215T193000-schwanensee@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Generation
+SUMMARY:Next Generation
+DTSTART;TZID=Europe/Berlin:20260220T193000
+DTEND;TZID=Europe/Berlin:20260220T223000
+UID:20260220T193000-next-generation@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Generation
+SUMMARY:Next Generation
+DTSTART;TZID=Europe/Berlin:20260221T193000
+DTEND;TZID=Europe/Berlin:20260221T223000
+UID:20260221T193000-next-generation@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Generation
+SUMMARY:Next Generation
+DTSTART;TZID=Europe/Berlin:20260222T150000
+DTEND;TZID=Europe/Berlin:20260222T180000
+UID:20260222T150000-next-generation@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Generation
+SUMMARY:Next Generation
+DTSTART;TZID=Europe/Berlin:20260222T190000
+DTEND;TZID=Europe/Berlin:20260222T220000
+UID:20260222T190000-next-generation@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Generation
+SUMMARY:Next Generation
+DTSTART;TZID=Europe/Berlin:20260224T193000
+DTEND;TZID=Europe/Berlin:20260224T223000
+UID:20260224T193000-next-generation@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin Tischlerei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterreise
+SUMMARY:Winterreise
+DTSTART;TZID=Europe/Berlin:20260227T193000
+DTEND;TZID=Europe/Berlin:20260227T223000
+UID:20260227T193000-winterreise@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterreise
+SUMMARY:Winterreise
+DTSTART;TZID=Europe/Berlin:20260301T150000
+DTEND;TZID=Europe/Berlin:20260301T180000
+UID:20260301T150000-winterreise@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterreise
+SUMMARY:Winterreise
+DTSTART;TZID=Europe/Berlin:20260301T190000
+DTEND;TZID=Europe/Berlin:20260301T220000
+UID:20260301T190000-winterreise@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterreise
+SUMMARY:Winterreise
+DTSTART;TZID=Europe/Berlin:20260304T193000
+DTEND;TZID=Europe/Berlin:20260304T223000
+UID:20260304T193000-winterreise@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew PREMIERE
+SUMMARY:Nurejew PREMIERE
+DTSTART;TZID=Europe/Berlin:20260321T193000
+DTEND;TZID=Europe/Berlin:20260321T223000
+UID:20260321T193000-nurejew-premiere@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260324T193000
+DTEND;TZID=Europe/Berlin:20260324T223000
+UID:20260324T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260325T193000
+DTEND;TZID=Europe/Berlin:20260325T223000
+UID:20260325T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260330T193000
+DTEND;TZID=Europe/Berlin:20260330T223000
+UID:20260330T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260401T193000
+DTEND;TZID=Europe/Berlin:20260401T223000
+UID:20260401T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260404T193000
+DTEND;TZID=Europe/Berlin:20260404T223000
+UID:20260404T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260406T180000
+DTEND;TZID=Europe/Berlin:20260406T210000
+UID:20260406T180000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260407T193000
+DTEND;TZID=Europe/Berlin:20260407T223000
+UID:20260407T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20260411T193000
+DTEND;TZID=Europe/Berlin:20260411T223000
+UID:20260411T193000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260412T180000
+DTEND;TZID=Europe/Berlin:20260412T210000
+UID:20260412T180000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20260417T193000
+DTEND;TZID=Europe/Berlin:20260417T223000
+UID:20260417T193000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260418T193000
+DTEND;TZID=Europe/Berlin:20260418T223000
+UID:20260418T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer
+SUMMARY:Wunderkammer
+DTSTART;TZID=Europe/Berlin:20260423T193000
+DTEND;TZID=Europe/Berlin:20260423T223000
+UID:20260423T193000-wunderkammer@meucalendario
+COLOR:blue
+LOCATION:Komische Oper Berlin @Schillertheater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260424T193000
+DTEND;TZID=Europe/Berlin:20260424T223000
+UID:20260424T193000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurejew
+SUMMARY:Nurejew
+DTSTART;TZID=Europe/Berlin:20260426T160000
+DTEND;TZID=Europe/Berlin:20260426T190000
+UID:20260426T160000-nurejew@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs 
+SUMMARY:Gods and Dogs 
+DTSTART;TZID=Europe/Berlin:20260514T150000
+DTEND;TZID=Europe/Berlin:20260514T180000
+UID:20260514T150000-gods-and-dogs-@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20260514T190000
+DTEND;TZID=Europe/Berlin:20260514T220000
+UID:20260514T190000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gods and Dogs
+SUMMARY:Gods and Dogs
+DTSTART;TZID=Europe/Berlin:20260516T193000
+DTEND;TZID=Europe/Berlin:20260516T223000
+UID:20260516T193000-gods-and-dogs@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries PREMIERE
+SUMMARY:Fearful Symmetries PREMIERE
+DTSTART;TZID=Europe/Berlin:20260530T193000
+DTEND;TZID=Europe/Berlin:20260530T223000
+UID:20260530T193000-fearful-symmetries-premiere@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260604T193000
+DTEND;TZID=Europe/Berlin:20260604T223000
+UID:20260604T193000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260611T193000
+DTEND;TZID=Europe/Berlin:20260611T223000
+UID:20260611T193000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260613T193000
+DTEND;TZID=Europe/Berlin:20260613T223000
+UID:20260613T193000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260614T190000
+DTEND;TZID=Europe/Berlin:20260614T220000
+UID:20260614T190000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sommernachtstraum Wiederaufnahme
+SUMMARY:Ein Sommernachtstraum Wiederaufnahme
+DTSTART;TZID=Europe/Berlin:20260621T190000
+DTEND;TZID=Europe/Berlin:20260621T220000
+UID:20260621T190000-ein-sommernachtstraum-wiederaufnahme@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sommernachtstraum
+SUMMARY:Ein Sommernachtstraum
+DTSTART;TZID=Europe/Berlin:20260622T193000
+DTEND;TZID=Europe/Berlin:20260622T223000
+UID:20260622T193000-ein-sommernachtstraum@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sommernachtstraum
+SUMMARY:Ein Sommernachtstraum
+DTSTART;TZID=Europe/Berlin:20260624T193000
+DTEND;TZID=Europe/Berlin:20260624T223000
+UID:20260624T193000-ein-sommernachtstraum@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries 
+SUMMARY:Fearful Symmetries 
+DTSTART;TZID=Europe/Berlin:20260628T150000
+DTEND;TZID=Europe/Berlin:20260628T180000
+UID:20260628T150000-fearful-symmetries-@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260628T193000
+DTEND;TZID=Europe/Berlin:20260628T223000
+UID:20260628T193000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260630T193000
+DTEND;TZID=Europe/Berlin:20260630T223000
+UID:20260630T193000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sommernachtstraum
+SUMMARY:Ein Sommernachtstraum
+DTSTART;TZID=Europe/Berlin:20260701T193000
+DTEND;TZID=Europe/Berlin:20260701T223000
+UID:20260701T193000-ein-sommernachtstraum@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260702T193000
+DTEND;TZID=Europe/Berlin:20260702T223000
+UID:20260702T193000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fearful Symmetries
+SUMMARY:Fearful Symmetries
+DTSTART;TZID=Europe/Berlin:20260706T193000
+DTEND;TZID=Europe/Berlin:20260706T223000
+UID:20260706T193000-fearful-symmetries@meucalendario
+COLOR:blue
+LOCATION:Staatsoper Unter den Linden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sommernachtstraum
+SUMMARY:Ein Sommernachtstraum
+DTSTART;TZID=Europe/Berlin:20260707T193000
+DTEND;TZID=Europe/Berlin:20260707T223000
+UID:20260707T193000-ein-sommernachtstraum@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sommernachtstraum
+SUMMARY:Ein Sommernachtstraum
+DTSTART;TZID=Europe/Berlin:20260710T193000
+DTEND;TZID=Europe/Berlin:20260710T223000
+UID:20260710T193000-ein-sommernachtstraum@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sommernachtstraum 
+SUMMARY:Ein Sommernachtstraum 
+DTSTART;TZID=Europe/Berlin:20260712T190000
+DTEND;TZID=Europe/Berlin:20260712T220000
+UID:20260712T190000-ein-sommernachtstraum-@meucalendario
+COLOR:blue
+LOCATION:Deutsche Oper Berlin
+END:VEVENT
+END:VCALENDAR
